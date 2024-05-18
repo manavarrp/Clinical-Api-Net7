@@ -1,0 +1,16 @@
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Application.Dtos.deps.json
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Application.Dtos.dll
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Application.Dtos.pdb
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.csproj.AssemblyReference.cache
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.AssemblyInfoInputs.cache
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.AssemblyInfo.cs
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.sourcelink.json
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.csproj.CopyComplete
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.dll
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\refint\CLINICAL.Application.Dtos.dll
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\CLINICAL.Application.Dtos.pdb
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Application.Dtos\obj\Debug\net7.0\ref\CLINICAL.Application.Dtos.dll

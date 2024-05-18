@@ -1,0 +1,12 @@
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.deps.json
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\bin\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfoInputs.cache
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.AssemblyInfo.cs
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.sourcelink.json
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.dll
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\refint\CLINICAL.Domain.dll
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\CLINICAL.Domain.pdb
+C:\Projects\Sistema CLINICAL\CLINICAL\src\CLINICAL.Domain\obj\Debug\net7.0\ref\CLINICAL.Domain.dll

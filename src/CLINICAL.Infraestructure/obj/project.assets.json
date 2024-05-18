@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CLINICAL.Application.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CLINICAL.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CLINICAL.Application.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Application.Dtos.dll": {}
+        }
+      },
+      "CLINICAL.Application.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CLINICAL.Application.Dtos": "1.0.0",
+          "CLINICAL.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CLINICAL.Application.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Application.Interfaces.dll": {}
+        }
+      },
+      "CLINICAL.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLINICAL.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLINICAL.Application.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj",
+      "msbuildProject": "../CLINICAL.Application.Dtos/CLINICAL.Application.Dtos.csproj"
+    },
+    "CLINICAL.Application.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../CLINICAL.Application.Interfaces/CLINICAL.Application.Interfaces.csproj",
+      "msbuildProject": "../CLINICAL.Application.Interfaces/CLINICAL.Application.Interfaces.csproj"
+    },
+    "CLINICAL.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CLINICAL.Domain/CLINICAL.Domain.csproj",
+      "msbuildProject": "../CLINICAL.Domain/CLINICAL.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CLINICAL.Application.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mario Navarro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Infraestructure\\CLINICAL.Infraestructure.csproj",
+      "projectName": "CLINICAL.Infraestructure",
+      "projectPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Infraestructure\\CLINICAL.Infraestructure.csproj",
+      "packagesPath": "C:\\Users\\Mario Navarro\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Infraestructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mario Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Application.Interfaces\\CLINICAL.Application.Interfaces.csproj": {
+              "projectPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Application.Interfaces\\CLINICAL.Application.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj",
+        "projectName": "CLINICAL.Application.Dtos",
+        "projectPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Application.Dtos\\CLINICAL.Application.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Mario Navarro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Application.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mario Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
+        "projectName": "CLINICAL.Domain",
+        "projectPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Domain\\CLINICAL.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mario Navarro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Sistema CLINICAL\\CLINICAL\\src\\CLINICAL.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mario Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
